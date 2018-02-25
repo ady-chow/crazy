@@ -1,0 +1,38 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ady.crazyit">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainAct">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".chapter2.CustomViewAct" />
+        <activity android:name=".chapter2.TableLayoutAct" />
+        <activity android:name=".chapter2.FrameLayoutAct" />
+        <activity android:name=".chapter2.GridLayoutAct" />
+        <activity android:name=".chapter2.TextViewAct" />
+        <activity android:name=".chapter2.AdvancedTextViewAct" />
+        <activity android:name=".chapter2.EditTextAct" />
+        <activity android:name=".chapter2.ToggleButtonAct" />
+        <activity android:name=".chapter2.ClockAct" />
+        <activity android:name=".chapter2.ChronometerAct" />
+        <activity android:name=".chapter2.ImageViewAct" />
+        <activity android:name=".chapter2.QuickContactBadgeAct" />
+        <activity android:name=".chapter2.ListViewAct" />
+        <activity android:name=".chapter2.AutoCompleteTextViewAct" />
+        <activity android:name=".chapter2.GridViewAct" />
+        <activity android:name=".chapter2.ExpandableListViewAct" />
+        <activity android:name=".chapter2.SpinnerAct" />
+        <activity android:name=".chapter2.GalleryAct" />
+        <activity android:name=".chapter2.AdapterViewFlipperAct" />
+        <activity android:name=".chapter2.StackViewAct" />
+    </application>
+</manifest>

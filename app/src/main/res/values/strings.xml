@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">crazyit</string>
+    <string name="custom_view">custom view</string>
+    <string name="alone_line_btn">独自占一行的按钮</string>
+    <string name="normal_btn">普通按钮</string>
+    <string name="normal_btn_1">普通按钮1</string>
+    <string name="normal_btn_2">普通按钮2</string>
+    <string name="normal_btn_3">普通按钮3</string>
+    <string name="shrinkable_btn">收缩的按钮</string>
+    <string name="stretchable_btn">拉伸按钮</string>
+    <string name="table_layout">table layout</string>
+    <string name="frame_layout">frame layout</string>
+    <string name="clear">清除</string>
+    <string name="grid_layout">grid layout</string>
+    <string name="text_view">text view</string>
+    <string name="advanced_text_view">advanced text view</string>
+    <string name="edit_text_view">edit text view</string>
+    <string name="toggle_button">toggle button</string>
+    <string name="clock">clock</string>
+    <string name="chronometer">chronometer</string>
+    <string name="image_view">image view</string>
+    <string name="quick_contact_badge">quick contact badge</string>
+    <string name="list_view">list view</string>
+    <string name="auto_complete_text_view">auto complete text view</string>
+    <string name="grid_view">grid view</string>
+    <string name="expandable_list_view">expandable list view</string>
+    <string name="tip">提示</string>
+    <string name="spinner">spinner</string>
+    <string name="gallery">gallery</string>
+    <string name="adapter_view_flipper">adapter view flipper</string>
+    <string name="stack_view">stack view</string>
+    <string name="progress">progress bar</string>
+</resources>
